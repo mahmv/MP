@@ -19,16 +19,16 @@
 
 <p align="center">
   <!-- compact icon-bar, no giant base64 -->
-  <a href=""><img src="https://img.shields.io/github/stars/Angelix1/MP?style=for-the-badge&label=STARS&labelColor=E23E57&color=1e1e2e"></a>
-  <a href=""><img src="https://img.shields.io/github/issues/Angelix1/MP?style=for-the-badge&label=ISSUES&labelColor=88304E&color=1e1e2e"></a>
-  <a href=""><img src="https://img.shields.io/github/issues-pr/Angelix1/MP?style=for-the-badge&label=PULL%20REQUEST&labelColor=522546&color=1e1e2e"></a>
+  <a href="https://github.com/mahmv/MP/stargazers"><img src="https://img.shields.io/github/stars/mahmv/MP?style=for-the-badge&label=STARS&labelColor=E23E57&color=1e1e2e"></a>
+  <a href="https://github.com/mahmv/MP/issues"><img src="https://img.shields.io/github/issues/mahmv/MP?style=for-the-badge&label=ISSUES&labelColor=88304E&color=1e1e2e"></a>
+  <a href="https://github.com/mahmv/MP/pulls"><img src="https://img.shields.io/github/issues-pr/mahmv/MP?style=for-the-badge&label=PULL%20REQUEST&labelColor=522546&color=1e1e2e"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/licence-BSD_3--Clause-89b4fa?style=for-the-badge&label=LICENSE&labelColor=311D3F&color=1e1e2e"></a>
 </p>
 
 <!-- glowing donation row -->
 <p align="center">
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&labelColor=1e1e2e&logo=paypal&logoColor=white" alt="PayPal"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-ff69b4?style=for-the-badge&labelColor=1e1e2e&logo=kofi&logoColor=white" alt="Ko-fi"></a>
+  <a href="https://www.paypal.me/" target="_blank"><img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&labelColor=1e1e2e&logo=paypal&logoColor=white" alt="PayPal"></a>
+  <a href="https://ko-fi.com/" target="_blank"><img src="https://img.shields.io/badge/Ko--fi-Buy%20me%20a%20coffee-ff69b4?style=for-the-badge&labelColor=1e1e2e&logo=kofi&logoColor=white" alt="Ko-fi"></a>
 </p>
 
 ---
